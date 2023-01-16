@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DogsApp</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dogs_list_error">An error occurred while loading data!</string>
+    <string name="dog_name">Dog name</string>
+    <string name="life_span">Dog lifespan</string>
+    <string name="dog_purpose">Dog purpose</string>
+    <string name="dog_temperament">Dog temperament</string>
+</resources>
